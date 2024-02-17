@@ -1,5 +1,6 @@
 # Chess_Evaluator
 Didn`t want to pay for chess.com evaluation, fun little script of the weekend.
+uses png notation as input.
 
 Not polished yet but in good condition, Working on understanding how evaluations are made
 and how to identify Blunders, misses and missed wins.
